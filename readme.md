@@ -44,7 +44,7 @@ If you plan to make the bot send messages, then you need to edit your server.pro
 ```
 
 
-**If you plan to use it onlly for logs, then it's not required** 
+**If you plan to use it only for logs, then it's not required** 
 
 ## Events:
 
