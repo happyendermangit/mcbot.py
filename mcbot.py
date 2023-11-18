@@ -3,6 +3,7 @@ import time,re
 
 PATTERN = r"\[(.*?)\] \[(.*?)\]:"
 
+
 class McBot:
     def __init__(self,ip,Rconpassword,serverPath,useRcon=True):
         self.ip = ip 

@@ -70,7 +70,9 @@ If you plan to make the bot send messages, then you need to edit your server.pro
     - **`type`**: the type of the event that is in minecraft console
     - **`text`**: the text of the event that is in minecraft consol 
 
+## Examples:
 
+You can try out some examples [here](./examples/)
 
 
 
