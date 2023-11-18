@@ -11,7 +11,7 @@
 ## How to use?
 1. clone the repo:
 ```sh
-$ git clone https://github.com/happyendermangit/mcbot-py.git
+$ git clone https://github.com/happyendermangit/mcbot.py.git
 ```
 
 2. Install modules
